@@ -1,8 +1,16 @@
 #Overview
 
-As a software engineer, I aim to deepen my understanding of Kotlin and modern Android development by building a FlashcardApp. This Android application, developed using Kotlin and Jetpack Compose, allows users to create, view, and study flashcards through an intuitive single-screen interface. It demonstrates key Kotlin features, including data classes, mutable and immutable variables, conditionals, and functions, while leveraging Jetpack Compose for UI and SharedPreferences with Gson for data persistence.
+As a software engineer, I aim to deepen my understanding of Kotlin and modern Android development 
+by building a FlashcardApp. This Android application, developed using Kotlin and Jetpack Compose, 
+allows users to create, view, and study flashcards through an intuitive single-screen interface. 
+It demonstrates key Kotlin features, including data classes, mutable and immutable variables, 
+conditionals, and functions, while leveraging Jetpack Compose for UI and SharedPreferences with 
+Gson for data persistence.
 
-The purpose of this software is to provide a practical tool for studying flashcards while showcasing Kotlin’s concise syntax and interoperability with Android libraries. By implementing this app, I explored state management, persistence, and dynamic theming, enhancing my skills in Android development.
+The purpose of this software is to provide a practical tool for studying flashcards while 
+showcasing Kotlin’s concise syntax and interoperability with Android libraries. 
+By implementing this app, I explored state management, persistence, and dynamic theming, 
+enhancing my skills in Android development.
 [Software Demo Video](https://youtu.be/I42JRrf8K1Q)
 
 #Development Environment
